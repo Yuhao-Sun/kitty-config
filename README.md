@@ -1,7 +1,11 @@
-# 🐱 Kitty Terminal Configuration
+# 🌌 CosmicKitty Terminal Configuration
 
-A modern, visually appealing, and efficient configuration for the [Kitty Terminal Emulator](https://sw.kovidgoyal.net/kitty/), optimized for macOS and productivity.  
-This setup focuses on **aesthetic themes**, **smooth workflow shortcuts**, and **high readability**.
+A sleek, translucent, and cat-inspired **Kitty Terminal** configuration for macOS.  
+Designed for developers who love both **aesthetics and precision**, CosmicKitty blends  
+the soft elegance of **Catppuccin Mocha**, the clarity of **JetBrainsMono Nerd Font**,  
+and the gentle glow of a cosmic night sky 🪄
+
+> 🐾 Smooth gradients, glassy opacity, elegant prompts — a purrfect balance between beauty and productivity.
 
 ---
 
@@ -149,3 +153,5 @@ Displays a paw emoji 🐾 followed by the tab index and current title
 - For advanced tweaks, refer to `kitty +kitten show-config --default --docs`
 
 ---
+
+✨ *Made with love and starlight by Yuhao — welcome aboard the CosmicKitty spacecraft.* 🛸
